@@ -37,6 +37,7 @@ git checkout -b your-branch-name
 * Wait for your PR review and merge approval...
 * __Star this repository__ if you had fun contributing!
 
+## A BIG Thanks To Our Contributors :handshake: :handshake:
 <a href="https://github.com/joyjeetcoding/Coding-problems-Hacktoberfest2023/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=joyjeetcoding/Coding-problems-Hacktoberfest2023" />
 </a>
