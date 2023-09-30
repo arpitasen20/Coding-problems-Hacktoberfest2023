@@ -3,7 +3,7 @@ Repository totally dedicated to Hacktoberfest 2023, feel free to contribute. Top
 
 <p align="center">
     <a href="https://hacktoberfest.com/" target="_blank">
-    	<img src="/logohacktoberfest2k23.png" width="800px" height="400px">
+    	<img src="/logohacktoberfest2k23.jpg" width="800px" height="400px">
     </a>
 </p>
 
