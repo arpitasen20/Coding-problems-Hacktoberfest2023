@@ -1,14 +1,7 @@
 # Coding-problems-Hacktoberfest2023
 Repository totally dedicated to Hacktoberfest 2023, feel free to contribute. Topics hacktoberfest hacktoberfest-accepted hacktoberfest2023
 
-<p align="center">
-    <a href="https://hacktoberfest.com/" target="_blank">
-    	![logohacktoberfest2k23](./logohacktoberfest2k23.jpg)
-    </a>
-
-</p>
-
-# Hacktoberfest2023
+## Hacktoberfest2023
 
 Hello Hackers! HacktoberFest has begun again for year 2023, and everyone's excited to get started!
 Contribute between: <h4>1 OCTOBER - 31 OCTOBER</h4>
