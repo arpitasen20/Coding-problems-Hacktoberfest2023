@@ -3,8 +3,9 @@ Repository totally dedicated to Hacktoberfest 2023, feel free to contribute. Top
 
 <p align="center">
     <a href="https://hacktoberfest.com/" target="_blank">
-    	<img src="/logohacktoberfest2k23.jpg" width="800px" height="400px">
+    	![logohacktoberfest2k23](https://github.com/joyjeetcoding/Coding-problems-Hacktoberfest2023/assets/96014361/c0d4e2ae-5d60-4510-9e8d-7d9613e20a1c)
     </a>
+
 </p>
 
 # Hacktoberfest2023
